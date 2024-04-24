@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Josef Tangeni
+- 👋 Hi, I’m Josef Tangeni Nghipandulwa
 - 👀 I’m interested in computer Science and Programming
 - 🌱 I’m currently learning Business Information System
-- 💞️ I’m looking to collaborate on leverage my knowledge on System Administrator as my future career.
+- 💞️ I’m looking to collaborate on leverage my knowledge on Web developer or as an IT technicain as my future career.
 - 📫 How to reach me josefnghipandulwa4@gmail.com
 
 <!---
